@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-blogger/static/css/main.61f013f1.css",
+    "main.js": "/Movie-blogger/static/js/main.41aa4e8e.js",
+    "index.html": "/Movie-blogger/index.html",
+    "main.61f013f1.css.map": "/Movie-blogger/static/css/main.61f013f1.css.map",
+    "main.41aa4e8e.js.map": "/Movie-blogger/static/js/main.41aa4e8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f013f1.css",
+    "static/js/main.41aa4e8e.js"
+  ]
+}
