@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+<h2>To use the website:--</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/akshayrai14/Movie-blogger/assets/109916723/17c680bc-22ac-4ddf-b9e7-dd166824338d)
 
-## Available Scripts
+<h4>Click on the Login first in the Navbar the below button will load....</h4>
+
+![image](https://github.com/akshayrai14/Movie-blogger/assets/109916723/bd50a8dc-d048-4f9c-aa1a-df24cd2958a6)
+
+<h4>Click on the SignIn button to open the Google auth below...</h4>
+
+![image](https://github.com/akshayrai14/Movie-blogger/assets/109916723/87a1737f-408a-4e96-bf2e-08ce89a62968)
+
+<h4>Once signed in ,you will be redirected to the Main page where all public blogs are visible you can <b>like the blogs</b> and see number of likes of the blog and the user who has written the blog</h4>
+
+![image](https://github.com/akshayrai14/Movie-blogger/assets/109916723/af09acad-c98e-4e44-a366-59f33b2cd644)
+
+<h4>You can even create your own blog from the createpost option in the navbar at the left side</h4>
+
+![image](https://github.com/akshayrai14/Movie-blogger/assets/109916723/5e9cf2ae-d1b7-4fe9-8a55-20b0ca6da472)
+
+<h4>Finally you can go back to see your own post to the Main page using the Navbar option and there is a Logout button on the bottom to leave the login</h4>
+
+![image](https://github.com/akshayrai14/Movie-blogger/assets/109916723/4c998c93-7bf7-4172-8d97-39147413d3bb)
 
 In the project directory, you can run:
 
