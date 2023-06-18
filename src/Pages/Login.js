@@ -7,7 +7,7 @@ import './Login.css'
 function Login () {
     const navigate= useNavigate();
     const signinwithgoogle = async () =>{
-        const result = await signInWithPopup(auth,provider);
+        const result = await signInWithRedirect(auth,provider);
         //console.log(result);
         navigate("/home");
         //takes our two arguments that we created in firebase.js
